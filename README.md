@@ -19,6 +19,8 @@ make
 ```
 ## Usage
 
+![](15ps.gif)
+
 To use the program, run the program with the following
 ```
 ./15puzzle <.puzzle file>
