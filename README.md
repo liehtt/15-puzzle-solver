@@ -4,7 +4,7 @@ A solver for the sliding puzzle using Iterative deepening A* (IDA*) algorithm.
 
 <p align="center">
   <img width="300" height="300" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/15-puzzle_magical.svg">
-  <p align="center">Image from wikipedia</p>
+  <p align="center">Image from <a href="https://en.wikipedia.org/wiki/15_puzzle">wikipedia</a></p>
 </p>
 
 ## Prerequisite
